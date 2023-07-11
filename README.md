@@ -8,7 +8,7 @@
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduarddomendes&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduarddomendes&layout=compact)](https://github.com/eduarddomendes/github-readme-stats)
 
- ![Snake animation](https://github.com/eduarddomendes/eduarddomendes/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **eduarddomendes/eduarddomendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
